@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi, I'm Tony a full stack dev 👋
 
-<!--
-**TheCodeSommelier/TheCodeSommelier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦾 I'm reinforcing skills in Ruby, Ruby on Rails and JavaScript
+- 🌱 I’m currently learning REACT
+- 👯 I’m looking to collaborate on **planet saving projects**
+- 📫 How to reach me: https://www.linkedin.com/in/tony-masek-a88406285/
 
-Here are some ideas to get you started:
+**Past projects:**
+  1. [Globetrotters](https://github.com/TheCodeSommelier/globetrotters)
+      - Social media app with AI planning integrations (Functioning demo)
+  1. [Monsters Market](https://github.com/s777yab/monsters-market)
+      - An app for booking monsters with geolocation integratioins (Functioning demo)
+  1. [Survival Fables](https://github.com/TheCodeSommelier/Survival-Fables)
+       - Survival text based terminal game in python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📗 What I work with? 📗
+**Backend**
+  - Ruby on Rails
+    
+**Frontend**
+  - StimulusJS
+  - Bootstrap
+
+**Languages**
+  - Ruby
+  - Python
+  - JavaScript
+  - HTML
+  - CSS
+
+**Databases**
+  - PostgreSQL
+
+**Other**
+  - Figma (design)
+  - Git (collaboration)
+  - Heroku (deployment)
