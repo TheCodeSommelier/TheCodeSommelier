@@ -3,7 +3,7 @@
 - 🦾 I'm reinforcing skills in Ruby, Ruby on Rails and JavaScript
 - 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on **planet saving projects**
-- 📫 How to reach me: https://www.linkedin.com/in/tony-masek-a88406285/
+- 📫 How to reach me: [https://www.linkedin.com/in/tony-masek-a88406285/](https://www.linkedin.com/in/tony-masek/)
 
 **Past projects:**
   1. [Globetrotters](https://github.com/TheCodeSommelier/globetrotters)
