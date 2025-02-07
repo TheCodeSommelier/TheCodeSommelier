@@ -10,7 +10,7 @@
   1. [Copycat Crypto Bot](https://github.com/TheCodeSommelier/copycat)
      - An automisation of buying crypto based on email notifications (NodeJS)
 
-**Past projects:**
+**Past projects**
 
   1. [TennisWinns](https://github.com/TheCodeSommelier/tenniswins) *(No longer in dev)*
      - A web app for posting tennis bets by a single trader
