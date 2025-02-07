@@ -5,12 +5,22 @@
 - 👯 I’m looking to collaborate on **planet saving projects**
 - 📫 How to reach me: https://www.linkedin.com/in/tony-masek/
 
+**Current Project**
+
+  1. [Copycat Crypto Bot](https://github.com/TheCodeSommelier/copycat)
+     - An automisation of buying crypto based on email notifications (NodeJS)
+
 **Past projects:**
-  1. [Globetrotters](https://github.com/TheCodeSommelier/globetrotters)
+
+  1. [TennisWinns](https://github.com/TheCodeSommelier/tenniswins) *(No longer in dev)*
+     - A web app for posting tennis bets by a single trader
+  3. [Prostormat](https://github.com/TheCodeSommelier/prostormat) *(No longer in dev)*
+     - An event space booking system
+  5. [Globetrotters](https://github.com/TheCodeSommelier/globetrotters)
       - Social media app with AI planning integrations (Functioning demo)
-  1. [Monsters Market](https://github.com/s777yab/monsters-market)
+  6. [Monsters Market](https://github.com/s777yab/monsters-market)
       - An app for booking monsters with geolocation integratioins (Functioning demo)
-  1. [Survival Fables](https://github.com/TheCodeSommelier/Survival-Fables)
+  7. [Survival Fables](https://github.com/TheCodeSommelier/Survival-Fables)
        - Survival text based terminal game in python
 
 ## 📗 What I work with? 📗
