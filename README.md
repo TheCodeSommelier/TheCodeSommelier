@@ -13,7 +13,7 @@
 **Past projects**
 
   1. [TennisWinns](https://github.com/TheCodeSommelier/tenniswins) *(No longer in dev)*
-     - A web app for posting tennis bets by a single trader
+     - A web app for posting tennis bets by a single better
   3. [Prostormat](https://github.com/TheCodeSommelier/prostormat) *(No longer in dev)*
      - An event space booking system
   5. [Globetrotters](https://github.com/TheCodeSommelier/globetrotters)
