@@ -1,7 +1,7 @@
 # Hi, I'm Tony a full stack dev 👋
 
-- 🦾 I'm reinforcing skills in Ruby, Ruby on Rails and JavaScript
-- 🌱 I’m currently learning Node.js and Rust
+- 🦾 I'm reinforcing skills in Solidity and JavaScript
+- 🌱 I’m currently learning Node.js and Solidity
 - 👯 I’m looking to collaborate on **planet saving projects**
 - 📫 How to reach me: https://www.linkedin.com/in/tony-masek/
 
