@@ -31,13 +31,13 @@
 **Frontend**
   - StimulusJS
   - SCSS
+  - HTML
+  - CSS
 
 **Languages**
   - Ruby
-  - Python
+  - Solidity
   - JavaScript
-  - HTML
-  - CSS
 
 **Databases**
   - PostgreSQL
