@@ -29,7 +29,7 @@
   - Node.js
     
 **Frontend**
-  - StimulusJS
+  - React.js
   - SCSS
   - HTML
   - CSS
@@ -38,6 +38,7 @@
   - Ruby
   - Solidity
   - JavaScript
+  - Typescript
 
 **Databases**
   - PostgreSQL
